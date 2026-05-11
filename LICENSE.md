@@ -1,4 +1,4 @@
-# 
+# Polymarket advanced Algorithm: take-profit-orders & decentralized-trading offers the most advanced Polymarket algorithm, with take-profit-orders and decentralized-trading. Ideal
 
 
 
